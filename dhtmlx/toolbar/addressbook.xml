@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<toolbar>
+	<item id="addnew" type="button" text="ADD"/>
+	<item  type="text" text="|" />
+	
+	<item id="delete" type="button" text="DELETE"/>
+
+</toolbar>
